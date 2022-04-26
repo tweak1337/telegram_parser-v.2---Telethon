@@ -1,4 +1,4 @@
-Updated version of relegram parser, at this time based on Telethon library, which able significantly bigger, than Pyrogram at my last version.
+**Updated version of telegram parser, at this time based on Telethon library, which able significantly bigger, than Pyrogram at my last version.**
 
 Now we are parsing news channels, contains property thematics.
 Added 3 new fields:
@@ -11,7 +11,7 @@ possible to set "string connection" (look at the connection in the begining of p
 
 Ps. At this project i had use only one .py file, without any session and config files.
 All variables are located at virtual environment.
-I suppose this is the best way to use youe parser without any problems with kubernetes and docker.
+I suppose this is the best way to use your parser without any problems with kubernetes and docker.
 
 python 3.10.2
 
